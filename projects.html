@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <title>LDELATO | Projects</title>
+  <head>
+    <title>XP.css - A design system for building faithful recreations of old UIs</title>
+    <link rel="Shortcut Icon" type="image/x-icon" href="icon.png">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=485, initial-scale=.5">
-
-    <link rel="shortcut icon" href="images/frog-xp.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   
-    <meta property="og:title" content="GoldenCoqui.github.io">
+    <meta property="og:title" content="XP.css">
+    <meta name="Description" content="A design system for building faithful recreations of old UIs.">
+    <meta property="og:description" content="A design system for building faithful recreations of old UIs.">
+    <meta property="og:image" content="https://github.com/botoxparty/XP.css/raw/main/docs/window.png?raw=true">
   
     <link id="theme-stylesheet" rel="stylesheet" href="https://botoxparty.github.io/XP.css/XP.css">
     <link rel="stylesheet" href="https://botoxparty.github.io/XP.css/docs.css">
     <link rel="stylesheet" href="https://botoxparty.github.io/XP.css/vs.css">
-</head>
-<body>
-  
-    <aside>
+  </head>
+  <body>
+  <aside>
         <ul class="tree-view">
           <li>GitHub Page</li>
           <li>
@@ -40,59 +40,68 @@
           </li>
         </ul>
     </aside>
-  <main>
-
-    <div class="window" style="width: 400px">
-      <div class="title-bar">
-        <div class="title-bar-text">projects.exe</div>
-        <div class="title-bar-controls">
-          <button aria-label="Minimize"></button>
-          <button aria-label="Maximize"></button>
-          <button aria-label="Close"></button>
-        </div>
-      </div>
-      <div class="window-body">
-      <menu role="tablist">
-        <button aria-selected="true" aria-controls="webserver">webserver.mp4</button>
-        <button aria-selected="false" aria-controls="mips">mips.mp4</button>
-        <button aria-selected="false" aria-controls="poker">pokergame.mp4</button>
-      </menu>
-      <article role="tabpanel" id="webserver">
-          <p>Raspberry Pi Webserver</p>
-          <fieldset>
-            <legend>webserver.mp4</legend>
-           <p>
-            This project was a personal project. I wanted to learn how to use linux command line and hosting a website from a raspberry pi.  I have spent a long time reading up on how linux works and how to use it efficiently.  I run my webserver off the debian operating system with no UI.  I used the command lines to download Nginx and Git so my project can handle the requests/responses my website will recieve and to download the files I needed for my website on my GitHub account.  I have learned as well how to securley SSh into server and only have my computer be the one to do so using RSA keys.               
-            </p>
-            <img style="width: 150px" src="images\raspberrypi-pixel.png"/>
-          </fieldset>             
-        </article>
-  
-      <article role="tabpanel" id="mips" hidden>
-        
-        <fieldset>
-          <p>
-            During my time CS286 class I leanred how to use an old assembly programming language called MIPS r3000.  I was able to make small projects like a program that will solve the Tower of Hanoi puzzle.  The biggest project I made was using the MIPS r3000 to simulate virtual memory pages and segmented memory of a computer. Definitley a hard project but looking back I leanred a lot about how an operating system works on a basic level about memory managment.
-          </p>
-        <img style="width: 150px" src="images\mips.jpg"/>
-      </fieldset>
-      </article>
-  
-      <article role="tabpanel" id="poker" hidden>
-        <p>
-          Null
-        </p>
-      </article>
-      <section class="field-row" style="justify-content: flex-end">
-        <button>OK</button>
-        <button>Cancel</button>
-      </section>
-    </div>
-  </div>
     
-  </main>
+    <main>
+        <h1>Projects</h1>
+          <br>
+          <hr style="width:75vw">
+          <br>
+          <div class="window" style="width: 400px">
+            <div class="title-bar">
+              <div class="title-bar-text">projects.exe</div>
+              <div class="title-bar-controls">
+                <button aria-label="Minimize"></button>
+                <button aria-label="Maximize"></button>
+                <button aria-label="Close"></button>
+              </div>
+            </div>
+            <div class="window-body">
+            <menu role="tablist">
+              <button aria-selected="true" aria-controls="webserver">webserver</button>
+              <button aria-selected="false" aria-controls="mips">mips</button>
+              <button aria-selected="false" aria-controls="poker">pokergame.mp4</button>
+            </menu>
+            <article role="tabpanel" id="webserver">
+                <p>Raspberry Pi Webserver</p>
+                <fieldset>
+                  <legend>webserver.mp4</legend>
+                 <p>
+                  This project was a personal project. I wanted to learn how to use linux command line and hosting a website from a raspberry pi.  I have spent a long time reading up on how linux works and how to use it efficiently.  I run my webserver off the debian operating system with no UI.  I used the command lines to download Nginx and Git so my project can handle the requests/responses my website will recieve and to download the files I needed for my website on my GitHub account.  I have learned as well how to securley SSh into server and only have my computer be the one to do so using RSA keys.               
+                  </p>
+                  <img style="width: 150px" src="images\raspberrypi-pixel.png"/>
+                </fieldset>             
+              </article>
+        
+            <article role="tabpanel" id="mips" hidden>
+              
+              <fieldset>
+                <p>
+                  During my time CS286 class I leanred how to use an old assembly programming language called MIPS r3000.  I was able to make small projects like a program that will solve the Tower of Hanoi puzzle.  The biggest project I made was using the MIPS r3000 to simulate virtual memory pages and segmented memory of a computer. Definitley a hard project but looking back I leanred a lot about how an operating system works on a basic level about memory managment.
+                </p>
+              <img style="width: 150px" src="images\mips.jpg"/>
+            </fieldset>
+            </article>
+        
+            <article role="tabpanel" id="poker" hidden>
+              <p>
+                Null
+              </p>
+            </article>
+            <section class="field-row" style="justify-content: flex-end">
+              <button>OK</button>
+              <button>Cancel</button>
+            </section>
+          </div>
+        </div>
+        
 
-</body>
-      
+             
+
+
+    </main>
+
+    <script src="scripts/script.js"></script>
+
+
+  </body>
 </html>
-

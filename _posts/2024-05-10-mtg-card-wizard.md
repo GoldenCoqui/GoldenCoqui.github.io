@@ -14,7 +14,7 @@ tags: [MTG, project, personal, python, automation, gui]
 
 Introducing the MTG Card Wizard, your one-stop shop for finding the perfect cards at the best prices! This Python program, built with your gamer needs in mind, simplifies the hunt for essential cards across two popular TCG websites: Card Kingdom and TCG Player.
 
-**Here's the Magic:**
+### Here's the Magic:
 
 * **Effortless Search:** Forget endless browsing! Simply input the cards you need and the MTG Card Wizard takes care of the rest.
 * **Price Comparison at Your Fingertips:** Get instant price breakdowns from both websites, helping you snag the most affordable option.
@@ -22,7 +22,7 @@ Introducing the MTG Card Wizard, your one-stop shop for finding the perfect card
 * **"Unavailable" Alerts:** No more wasted time chasing unavailable cards. The Wizard flags cards missing from either website.
 * **Deal Savvy Recommendations:** Let the LLM guide you towards the best overall deal, maximizing your MTG budget.
 
-**Beyond the code, the MTG Card Wizard showcases my skills in:**
+### Beyond the code, the MTG Card Wizard showcases my skills in:
 
 * **User-Centric Design:** Creating a user-friendly GUI.
 * **Data Analysis and Machine Learning:** Leveraging cutting-edge LLM technology for insightful recommendations.

@@ -1,3 +1,11 @@
+---
+title: MTG Card Wizard
+Date: 2024-05-10 12:00:00 -500
+categories: [projects, personal_projects]
+tags: [MTG, project, personal, python, automation, gui]
+---
+
+
 ## Unleash Your Inner Magic: The MTG Card Wizard
 
 ![Card-wizard-img](../assets/img/wizard-hat.jpg)

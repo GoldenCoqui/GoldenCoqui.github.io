@@ -1,8 +1,8 @@
 ---
 title: Hello World
-Date: 2024-05-10
+Date: 2024-05-10 12:00:00 -500
 categories: [helloworld]
-tags: [helloworld]
+tags: [helloworld, test]
 ---
 # Hello, World!
 

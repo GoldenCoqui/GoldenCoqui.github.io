@@ -14,9 +14,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Leonardo # the main title
+title: Leonardo J. De La Torre Cruz # the main title
 
-tagline: Leonardo Portfolio Website # it will display as the sub-title
+tagline: To learn more about my site check the Hello World post # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A website that I use to display what I am doing, and what I have created.
@@ -29,7 +29,7 @@ github:
   username: GoldenCoqui # change to your github username
 
 Twitter:
-  username: Leonardo De La Torre Cruz # change to your twitter username
+  username: Username # change to your twitter username
 
 social:
   # Change to your full name.

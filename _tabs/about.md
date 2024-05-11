@@ -32,7 +32,7 @@ I am a highly motivated and results-oriented computer science major at Southern 
 
 **Work Experience**
 
-* **Network Operation Intern (Current):** Leidos, Shiloh, IL (details can be included in your cover letter)
+* **Network Operation Intern (Current):** Leidos, Shiloh, IL 
 * Aldi Cashier (August 2022 - Present): Aldi, Glen Carbon, IL 
 * Curbside Associate (June 2020 - April 2022): Sam's Club, Glen Carbon, IL 
 * Referee (April 2016 - July 2019): Edwardsville YMCA, Edwardsville, IL
@@ -42,13 +42,12 @@ I am a highly motivated and results-oriented computer science major at Southern 
 * **Honors & Awards** (List relevant awards and achievements)
     * National Honor Society (2019-2020)
     * Spanish Honor Society (2019-2020)
-    * 3rd Place US Congressional App Challenge (2018) ( Briefly describe the project)
+    * 3rd Place US Congressional App Challenge (2018) 
     * Boy Scouts of America Eagle Scout Award (2017)
 * **Community Service** (List relevant volunteer experiences)
     * Metro East Humane Society (Edwardsville, IL)
     * St. Cecilia Church
     * Glen-Ed Food Pantry
-    * (Add more experiences)
 
 **Contact**
 

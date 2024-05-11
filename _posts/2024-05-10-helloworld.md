@@ -13,5 +13,3 @@ Here is a CS joke to get you started:
 Why did the computer scientist get fired from the bank?
 * * *
 He kept trying to withdraw funds using SQL.
-
-![img-hello-world](https://www.udacity.com/blog/wp-content/uploads/2020/11/Hello-World_Blog-scaled.jpeg)

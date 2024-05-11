@@ -30,4 +30,4 @@ Introducing the MTG Card Wizard, your one-stop shop for finding the perfect card
 * **Data Analysis and Machine Learning:** Leveraging cutting-edge LLM technology for insightful recommendations.
 * **Python Programming Proficiency:** Building a robust and efficient program to empower your MTG journey.
 
-**This project demonstrates my dedication to streamlining tasks and applying technology to enhance user experience.  Are you ready to unlock the magic of efficient MTG card acquisition?**
+**This project demonstrates my dedication to streamlining tasks and applying technology to enhance user experience.**

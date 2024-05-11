@@ -8,6 +8,8 @@ tags: [MTG, project, personal, python, automation, gui]
 
 ## Unleash Your Inner Magic: The MTG Card Wizard
 
+### [Checkout GitHub Repo](https://github.com/GoldenCoqui/mtg_card_wizard)
+
 ![Card-wizard-img](../assets/img/wizard-hat.jpg)
 
 **Tired of scouring websites for the best deals on Magic the Gathering cards?** 

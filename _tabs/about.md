@@ -11,6 +11,8 @@ order: 4
 
 **Computer Science Major | Southern Illinois University Edwardsville (SIUE)**
 
+[Download Resumé]("../assets/documents/College_Resume.pdf")
+
 I am a highly motivated and results-oriented computer science major at Southern Illinois University Edwardsville (SIUE) with a strong work ethic and a passion for continuous learning. I am eager to leverage my technical skills and problem-solving abilities to contribute to a career in cybersecurity.
 
 **Technical Skills**

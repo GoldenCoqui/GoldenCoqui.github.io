@@ -20,7 +20,7 @@ I will be posting projects I've done, whether from college, work, or just person
 
 ## What is the About Tab?
 
-If you're an employer, feel free to check out my About tab, where you'll find a summary of my work history, accomplishments, college history, and more. You can also download my resume from that page. My contact information will be at the bottom of the page as well.
+If you're an employer, feel free to check out my About tab, where you'll find a summary of my work history, accomplishments, college history, and more. My contact information will be at the bottom of the page as well.
 
 ## What is the Categories Tab?
 

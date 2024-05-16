@@ -5,7 +5,7 @@ categories: [projects, personal_projects]
 tags: [MTG, project, personal, python, automation, gui]
 image:
   path: ../assets/img/wizard-hat.jpg
-  alt: DLX OS thumbnail
+  alt: MTG Card Wizard favicon thumbnail
 ---
 
 

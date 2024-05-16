@@ -10,6 +10,11 @@ image:
 
 
 # Improve Your Presentations
+
+### [Checkout GitHub Repo](https://github.com/GoldenCoqui/presentation-helper)
+
+
+
 with Presentation Helper, an innovative tool leveraging the power of AI. This project empowers you to craft **compelling and impactful presentations** with ease, propelling you towards **confident delivery and audience captivation**.
 
 ## Key Features:

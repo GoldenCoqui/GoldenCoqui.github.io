@@ -3,6 +3,9 @@ title: MTG Card Wizard
 Date: 2024-05-10 12:00:00 -500
 categories: [projects, personal_projects]
 tags: [MTG, project, personal, python, automation, gui]
+image:
+  path: ../assets/img/wizard-hat.jpg
+  alt: DLX OS thumbnail
 ---
 
 
@@ -10,7 +13,6 @@ tags: [MTG, project, personal, python, automation, gui]
 
 ### [Checkout GitHub Repo](https://github.com/GoldenCoqui/mtg_card_wizard)
 
-![Card-wizard-img](../assets/img/wizard-hat.jpg)
 
 **Tired of scouring websites for the best deals on Magic the Gathering cards?** 
 

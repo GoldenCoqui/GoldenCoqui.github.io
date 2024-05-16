@@ -3,13 +3,15 @@ title: News Summarizer
 Date: 2024-05-13 12:00:00 -500
 categories: [projects, college]
 tags: [project, college, python]
+image:
+  path: ../assets/img/news-scrapping.jpeg
+  alt: News Scrapping thumbnail
 ---
 
 # AI Article Summarizer with Optional HTML Output: Supercharge Your Research
 
 ## [Checkout GitHub Repo.](https://github.com/GoldenCoqui/news-scrapping-script/tree/final-project)
 
-![news-scrapping-img](../assets/img/news-scrapping.jpeg)
 
 This Python program streamlines your research workflow by automatically scraping news articles and generating concise summaries using Google's powerful Gemini API.
 

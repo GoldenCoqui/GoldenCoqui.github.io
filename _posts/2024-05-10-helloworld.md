@@ -4,9 +4,7 @@ Date: 2024-05-10 12:00:00 -500
 categories: [helloworld]
 tags: [helloworld]
 pin: true
-image:
-  path: ../assets/img/hello-world.gif
-  alt: hello world thumbnail
+description: To learn more about my site check the Hello World post.
 ---
 # Hello World!
 

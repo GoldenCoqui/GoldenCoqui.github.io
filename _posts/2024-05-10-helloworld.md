@@ -4,12 +4,19 @@ Date: 2024-05-10 12:00:00 -500
 categories: [helloworld]
 tags: [helloworld]
 pin: true
+image:
+  path: ../assets/img/hello-world.gif
+  alt: hello world thumbnail
 ---
 # Hello World!
 
-```python
->>>print("Hello World!")
-Hello World!
+```java
+public class InitializeContact {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
 ```
 
 ## What Does This Website Have?

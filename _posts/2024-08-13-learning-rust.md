@@ -31,4 +31,4 @@ I was able to create a number guessing game in Rust and it helped solidify what 
 
 I enjoy learning Rust and hope to become a master at it, if you know anything about Rust and have things to help me learn please email me some projects to try.
 
-**P.S. The Rust Programming Language Book I mentioned is free at https://doc.rust-lang.org/book/ or if you have Rust installed on your machine it is on your native device type run rustup doc --book. Thank me later and hope it helps people intrested in Rust :)**
+**P.S. The Rust Programming Language Book I mentioned is free at https://doc.rust-lang.org/book/ or if you have Rust installed on your machine it is on your native device type `rustup doc --book`. Thank me later and hope it helps people intrested in Rust :)**

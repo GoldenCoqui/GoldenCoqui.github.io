@@ -3,7 +3,6 @@ title: Hello World
 Date: 2024-05-10 12:00:00 -500
 categories: [blog, college]
 tags: [final semester, rust, blog, future]
-pin: true
 description: Current final semester of my college experience, this is what I am up to this final semster.
 image:
   path: ../assets/img/loading-grad.jpg

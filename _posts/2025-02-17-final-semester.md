@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Final Semester Blog
 Date: 2024-05-10 12:00:00 -500
 categories: [blog, college]
 tags: [final semester, rust, blog, future]
